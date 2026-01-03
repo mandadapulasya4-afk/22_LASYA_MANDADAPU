@@ -189,8 +189,3 @@ Triggered when users request guidance on what to learn next.
 - Institution-specific curriculum integration  
 
 ---
-
-## Author
-
-**TECHTALES**  
-An AI-driven learning platform designed to improve programming productivity through story-based education.
